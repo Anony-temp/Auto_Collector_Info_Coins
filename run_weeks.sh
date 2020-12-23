@@ -1,0 +1,1 @@
+python3 AutoCollect_Weeks.py
